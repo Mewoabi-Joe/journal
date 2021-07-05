@@ -51,6 +51,15 @@ tr:nth-child(8){
 tr:nth-child(7){
 	background-color: white;
 }
+table table th, table table td{
+	background-color: white;
+}
 blockquote{
 	font-style: italic;
+}
+li{
+	list-style-image: url(images/backpack.gif);
+	margin-left: 20px;
+	padding-top: 5px;
+
 }
