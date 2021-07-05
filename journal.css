@@ -36,12 +36,15 @@ caption{
 	font-style: italic;
 	padding: 10px;
 }
+tr:nth-child(odd){
+	background-color:  #fcba7a;
+}
 th{
 	background-color: #cc6600;
 }
-.orangeRow{
+/*.orangeRow{
 	background-color:  #fcba7a;
-}
+}*/
 blockquote{
 	font-style: italic;
 }
