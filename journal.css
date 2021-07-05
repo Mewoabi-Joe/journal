@@ -45,6 +45,12 @@ th{
 /*.orangeRow{
 	background-color:  #fcba7a;
 }*/
+tr:nth-child(8){
+	background-color:  #fcba7a;
+}
+tr:nth-child(7){
+	background-color: white;
+}
 blockquote{
 	font-style: italic;
 }
