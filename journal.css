@@ -20,6 +20,28 @@ h2{
 	font-size: 1.3em;
 	font-weight: normal;
 }
+table{
+	margin-right: 20px;
+	margin-left: 20px;
+	border: thin solid black;
+	caption-side: bottom;
+	border-spacing: 0px;
+	text-align: center;
+}
+th,td{
+	padding: 5px;
+	border: thin dotted gray;
+}
+caption{
+	font-style: italic;
+	padding: 10px;
+}
+th{
+	background-color: #cc6600;
+}
+.orangeRow{
+	background-color:  #fcba7a;
+}
 blockquote{
 	font-style: italic;
 }
